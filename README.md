@@ -1,5 +1,8 @@
 #ISIS1225 - Estructura de un proyecto
 
+Luis Felipe Dussán Rueda|lf.dussan@uniandes.edu.co|201912308
+Cristian Armando Sánchez Ocampo|ca.sanchezo1@uniandes.edu.co|202022112 
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
